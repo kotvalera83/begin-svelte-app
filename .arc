@@ -5,6 +5,7 @@ light-rpi
 
 @http
 get /api
+get /
 
 @tables
 data
